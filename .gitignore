@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Streamlit local cache
+.streamlit/
+
+# Trained model artifacts (can be regenerated with train.py)
+model/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
